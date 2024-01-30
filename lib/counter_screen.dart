@@ -20,7 +20,7 @@ class _CounterScreenState extends State<CounterScreen> {
             child: Text(
               'Counter',
               style: TextStyle(
-                  fontSize: 20,
+                  fontSize: 22g,
                   color: Colors.white,
                   fontWeight: FontWeight.w900),
             ),
